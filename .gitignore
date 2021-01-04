@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+/src/pages/shop/images/
 # production
 /build
 
